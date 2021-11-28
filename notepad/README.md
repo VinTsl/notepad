@@ -1,11 +1,11 @@
 # Notepad - 安卓期中作业
 ### 总览
 
-因为是自己从头实现的Notepad，从新构建了数据表已经增删改查代码。
+重新构建了数据表已经增删改查代码。
 
-基本要求实现：增删改查，时间戳，笔记查询（查询所有文本关键字）
+基本要求：增删改查，时间戳，笔记查询（查询所有文本关键字）
 
-拓展要求实现：UI美化，笔记背景更改，笔记分类及查询
+拓展：UI美化，笔记背景更改，笔记分类及查询
 
 ## 详情
 
@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity
 
 <img src='https://github.com/ZeroNinx/AS_Dev/blob/master/NotePad/screenshot/main.png' width='350px' />
 
-主要是参考安卓5.0以后的风格做了界面美化，由于安卓5.0后更新的扁平化Api更加美观，同时加上系统的支持，一体性更加强。
+主要参考安卓5.0以后的风格做了界面美化，由于安卓5.0后更新的扁平化Api更加美观，同时加上系统的支持，一体性更加强。
 
 主要代码（style.xml）：
 
